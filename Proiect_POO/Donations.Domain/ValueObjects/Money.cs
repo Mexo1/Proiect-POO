@@ -1,5 +1,5 @@
 namespace Proiect_POO.ValueObjects;
-
+//gestionarea sumelor de bani
 public sealed record Money
 {
     public decimal Amount { get;}
