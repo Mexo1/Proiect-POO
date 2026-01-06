@@ -26,7 +26,7 @@ Donation: eveniment unic de transfer financiar intre un donator si o campanie. i
 
 3)Aggregates:
 
-Entitatea Campaign actioneaza ca un Aggregate Root. Acesta gestioneaza intern colectia de donatii si garanteaza integritatea datelor prin metode de control precum AddDonation(). Contine logica de business care inchide automat campania atunci cand obiectivul financiar (TargetAmount) a fost atins.
+Entitatea Campaign actioneaza ca un Aggregate Root. Aceasta gestioneaza intern colectia de donatii si garanteaza integritatea datelor prin metode de control precum AddDonation(). Contine logica de business care inchide automat campania atunci cand obiectivul financiar (TargetAmount) a fost atins.
 
 4)Exceptions:
     -DomainException:exceptie specifica domeniului, utilizata pentru validarea regulilor de business;
