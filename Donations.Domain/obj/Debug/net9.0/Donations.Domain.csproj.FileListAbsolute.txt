@@ -1,0 +1,12 @@
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\Donations.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\Donations.Domain.AssemblyInfoInputs.cache
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\Donations.Domain.AssemblyInfo.cs
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\Donations.Domain.csproj.CoreCompileInputs.cache
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\bin\Debug\net9.0\Donations.Domain.deps.json
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\bin\Debug\net9.0\Donations.Domain.dll
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\bin\Debug\net9.0\Donations.Domain.pdb
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\Donations.Domain.csproj.AssemblyReference.cache
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\Donations.Domain.dll
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\refint\Donations.Domain.dll
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\Donations.Domain.pdb
+c:\Users\alexv\vs\Proiect-POO\Proiect_POO\Donations.Domain\obj\Debug\net9.0\ref\Donations.Domain.dll
